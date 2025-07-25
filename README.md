@@ -9,7 +9,7 @@ https://drive.google.com/drive/folders/1Uzsvpmw_IoZy9mC6Z-PUNfgN77LG1Oxc?usp=sha
 Put them directly inside your testing directory, as a whole folder just as you downloaded.
 
 # 2. Download Github files and Install required modules
-2-1. git clone https://github.com/crypto-starlab/THOR_demo.git  
+2-1. git clone https://github.com/crypto-starlab/THOR.git  
 2-2. pip install requirements.txt  
 2-3. Install Desilo Library
 - python setup.py Install
