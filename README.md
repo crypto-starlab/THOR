@@ -14,7 +14,8 @@ Put them directly inside your testing directory, as a whole folder just as you d
 2-3. Install Desilo Library
 - python setup.py Install
 - pip install -e .
-- Copy files in resource in Google Drive to liberate/src/liberate/fhe/cache/resources
+- Download resources.tar.gz from the same Google Drive link above.
+  Put it inside the following directory: liberate/src/liberate/fhe/cache/resources
 
 # 3. Run HE Model!
 Run with forward.ipynb 
