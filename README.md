@@ -5,7 +5,7 @@ The following directories are not included in the repository due to size:
 - `finetuned_models/`
 - `keys/`
 You can download them separately from the following Google Drive link:  
-https://drive.google.com/drive/folders/1Uzsvpmw_IoZy9mC6Z-PUNfgN77LG1Oxc?usp=sharing  
+https://drive.google.com/drive/folders/1Uzsvpmw_IoZy9mC6Z-PUNfgN77LG1Oxc?usp=sharing
 Put them directly inside your testing directory, as a whole folder just as you downloaded.
 
 # 2. Download Github files and Install required modules
